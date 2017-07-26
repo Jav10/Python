@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Python Tutorial
 
 You can use the [editor on GitHub](https://github.com/Jav10/Python/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
